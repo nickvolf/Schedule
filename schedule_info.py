@@ -75,7 +75,7 @@ class InfoGrabber:
             self.book_set[i].current_HW_page = current_HW_page
 
     @staticmethod
-    def today_lesson(self):
+    def today_lesson():
         response = pyip.inputMenu(['Study', 'Review', 'Test', 'No Class'], numbered=True)
         return response
     
