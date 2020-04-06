@@ -1,1 +1,324 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"User",
+				"User\ttype ⟠"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"re",
+				"redirect\tfunction ⟠"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"co",
+				"col-md-4"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"conta",
+				"container-fluid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sched_main.py",
+			"settings":
+			{
+				"buffer_size": 1512,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "schedule_info.py",
+			"settings":
+			{
+				"buffer_size": 3794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 319.0,
+		"history":
+		[
+			"exit()",
+			"print(\"hello world\")",
+			"cd",
+			"die",
+			"exit()",
+			"cls",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Projects/python/pyCharm/Schedule"
+	],
+	"file_history":
+	[
+		"/F/Projects/python/pyCharm/school/turboenglish/student/views.py",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/templates/student/base.html",
+		"/F/Projects/python/pyCharm/school/turboenglish/users/forms.py",
+		"/F/Projects/python/pyCharm/school/turboenglish/users/views.py",
+		"/F/Projects/python/pyCharm/school/turboenglish/users/templates/users/registration.html",
+		"/F/Projects/python/pyCharm/school/turboenglish/turboenglish/urls.py",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/templates/student/login.html",
+		"/C/Users/Nick/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/F/Projects/python/pyCharm/school/turboenglish/turboenglish/settings.py",
+		"/F/Projects/python/pyCharm/school/turboenglish/users/apps.py",
+		"/C/Users/Nick/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/F/Projects/python/pyCharm/school/turboenglish/register/templates/registration/login.html",
+		"/F/Projects/python/pyCharm/school/turboenglish/register/templates/register/register.html",
+		"/C/Users/Nick/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/templates/student/index.html",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/static/student/style.css",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/templates/student/splash.html",
+		"/F/Projects/python/pyCharm/school/turboenglish/student/urls.py",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DRa17004.42568/entrar_shadow-pack/css/style.css",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DRa17004.43608/entrar_shadow-pack/images/Thumbs.db",
+		"/C/Users/Nick/AppData/Local/Temp/Rar$DRa17004.43608/entrar_shadow-pack/images/user.png",
+		"/C/Users/Nick/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/Nick/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sched_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "schedule_info.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1923,
+								1923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sched_main.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
